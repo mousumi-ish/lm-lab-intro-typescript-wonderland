@@ -1,9 +1,9 @@
 export const HOLES = [
-  "Rabbits",
   "Badger",
   "Fox",
   "Swiss Cheese",
   "Donut",
+  "Rabbits",
 ] as const; // 👉 FIXME ❌
 
 // ⚠️ It can be very useful to make a custom type based on the contents of an array
